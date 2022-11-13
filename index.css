@@ -1,0 +1,20 @@
+.title {
+  margin: 50px 0 50px;
+}
+
+.newDivCardPicture {
+  width: 100%;
+  height: 150px;
+} 
+
+.image-size {
+  width: 100%;
+  height:100%;
+  object-fit: cover;
+}
+
+.divFooter {
+  margin: 10px;
+}
+
+
